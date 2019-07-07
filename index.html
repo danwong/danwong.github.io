@@ -1,0 +1,76 @@
+
+<!-- Hello dear inspector. I tried to make this page as lightweight as possible. Enjoy! -->
+<html>
+    <head>
+        <title>Daniel Phillip Wong</title>
+        <style type="text/css">
+        body {
+            color: #333333;
+            font-family: 'Source Sans Pro', sans-serif;    
+            line-height: 20pt;
+            margin: auto;
+            padding: 50px 0;
+            width: 888px;
+        }
+        a {
+            color: #990000;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #FF6666;
+        }
+        h1 {
+            text-align: center;
+        }
+        h2, h3, h4, h5, h6 {
+            border-bottom: 1px solid #999999;
+            padding: 9px 0 3px;
+        }
+        li {
+            margin-bottom: 4px;
+        }
+        .centered {
+            text-align: center;
+        }
+        .credit {
+            color: #999999;
+            font-size: smaller;
+            font-weight: 200;
+            padding-top: 10px;
+        }
+        @media only screen and (max-device-width: 640px), 
+            only screen and (max-device-width: 667px), 
+            only screen and (max-width: 480px) {
+            p, li {
+                font-size: smaller;
+                line-height: 16pt;
+            }   
+        }
+        </style>
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+        <script type="text/javascript">
+        function greet() {
+            var text;
+            var hour = (new Date()).getHours();
+            if (hour >= 6 && hour < 12) {
+                text = "Good morning";
+            } else if (hour >= 12 && hour < 18) {
+                text = "Good afternoon";
+            } else if (hour >= 18 && hour < 24) {
+                text = "Good evening";
+            } else {
+                text = "Good night";
+            }
+            document.getElementById("greeting").innerHTML = text;
+        }
+        </script>
+        <link rel="shortcut icon" href="favicon.png">
+    <head>
+    <body onload="greet()">
+        <h1>Stephen Ou</h1>
+        <p><span id="greeting">Howdy</span>! I am a software engineer at <a href="https://azure.microsoft.com/">Microsoft Azure</a>.</p>
+        <p class="centered credit">Made with love & inspiration from sunny Bay Area, in Vim.</p>
+    </body>
+</html>
+
