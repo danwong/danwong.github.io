@@ -1,9 +1,23 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Microsoft Azure
+  link: Microsoft.com
+  job_title: Software Engineer Intern
+  dates: June 2019 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Spearheading feature development features in Microsoft Azure!
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    I am currently working on developing features in Microsoft Azure - File Sync! I focus on writing scalable 
+    features to reduce time to resolve incidents. I integrated Machine Learning algorithms to modernize the way we think
+    about monitoring dependencies! :)
+
+
+- layout: left
+  company: Microsoft Teams
+  link: Microsoft.com
+  job_title: Software Engineer Intern
+  dates: June 2018 - Present
+  quote: >
+    Features, features, features! 
+  description: | # this will include new lines to allow paragraphs
+    I wrote two large features for Microsoft Teams iOS. This included the Voice Messaging feature which sees ~1 million messages per month!
+    I also wrote location sharing messages so that you can drop a pin to meet up for coffee!
