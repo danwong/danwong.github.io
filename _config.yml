@@ -3,13 +3,13 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Daniel Wong
+title: Software Engineer Intern at Microsoft Azure
+email: tkddanny@gmail.com
+website: www.github.com/danwong
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
