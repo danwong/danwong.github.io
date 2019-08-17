@@ -24,7 +24,7 @@ linkedin_username: dapwong
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Daniel and I'm a software engineer intern at Microsoft! 
+  Hi, my name's Daniel and I'm a software engineer intern at <mark>Microsoft</mark>! 
   I am specifically experienced in <mark>mobile</mark> development and <mark>cloud infrastructure</mark> :)
 
   [Here's my resume! :)](files/DanielWongResume.pdf)
