@@ -15,9 +15,19 @@
   company: Microsoft Teams
   link: Microsoft.com
   job_title: Software Engineer Intern
-  dates: June 2018 - Present
+  dates: June 2018 - September 2018
   quote: >
     Features, features, features! 
   description: | # this will include new lines to allow paragraphs
-    I wrote two large features for Microsoft Teams iOS. This included the Voice Messaging feature which sees ~1 million messages per month!
+    I wrote two large features for Microsoft Teams iOS. This included the Voice Messaging feature which sees <mark>~1 million</mark> messages per month!
     I also wrote location sharing messages so that you can drop a pin to meet up for coffee!
+
+- layout: left
+  company: Oracle Inc.
+  link: Oracle.com
+  job_title: Software Engineer Intern
+  dates: September 2017 - November 2017
+  quote: >
+    iOS, Android, and More! 
+  description: | # this will include new lines to allow paragraphs
+    I wrote and created an app from scratch for iOS and Android for Sales Engineers! 
