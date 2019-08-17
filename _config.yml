@@ -27,6 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Daniel and I'm a software engineer intern at Microsoft! 
   I am specifically experienced in <mark>mobile</mark> development and <mark>cloud architecture</mark> :)
 
+  [I'm an inline-style link](https://www.google.com)
+
 # Projects Section
 # projects_title: Projects
 
