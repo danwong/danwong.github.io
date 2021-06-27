@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Daniel P. Wong
-title: Software Engineer Intern at Microsoft Azure
+title: Software Engineer at Microsoft Azure
 email: me@dpwong.com
 #website: www.github.com/danwong
 
@@ -24,7 +24,7 @@ linkedin_username: dapwong
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Daniel and I'm a software engineer intern at <mark>Microsoft</mark>! 
+  Hi, my name's Daniel and I'm a software engineer at <mark>Microsoft</mark>! 
   I am specifically experienced in <mark>mobile</mark> development and <mark>cloud infrastructure</mark> :)
 
   [Here's my resume! :)](files/DanielWongResume.pdf)
@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
    - Weight lifting
    - Coffee
-   - FOOD 
+   - Cooking 
 
 # Footer
 footer_show_references: true
