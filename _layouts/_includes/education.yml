@@ -1,0 +1,10 @@
+- layout: left
+  name: Cal Poly SLO
+  dates: 2015-2019
+  qualification: BSc Computer Science
+  quote: >
+    Learn by Doing. Cal Poly is a nationally-ranked public university on California's Central Coast that offers valuable academic expertise and hands-on experience.
+  description: | # this will include new lines to allow paragraphs
+    During my time at Cal Poly, I focused on developing key skills that would allow me to focus on becoming a better developer.
+
+    I spent a lot of my free time hacking, weightlifting, and cooking!

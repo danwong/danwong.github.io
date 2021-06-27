@@ -1,0 +1,54 @@
+- layout: left
+  company: Microsoft Azure
+  link: Squareup.com/us/en
+  job_title: Software Engineer
+  dates: June 2020 - Present
+  quote: >
+   Azure Files Engineer
+  description: | # this will include new lines to allow paragraphs
+    I am currently writing end to end features for Azure Files including protocols to all the way to geo replication!
+    Alongside the many features, I also support the team with improving livesite and performance. 
+
+- layout: left
+  company: Square Inc.
+  link: Squareup.com/us/en
+  job_title: Software Engineer Intern
+  dates: September 2019 - December 2019
+  quote: >
+   Full stack engineering at Square Inc!
+  description: | # this will include new lines to allow paragraphs
+    I wrote many features using PHP, Ruby on Rails, and React developing and creating plumbing for infrastructures across the platform.
+
+- layout: left
+  company: Microsoft Azure
+  link: Microsoft.com
+  job_title: Software Engineer Intern
+  dates: June 2019 - September 2019
+  quote: >
+   Spearheading feature development at Microsoft Azure!
+  description: | # this will include new lines to allow paragraphs
+    I am currently working on developing features in Microsoft Azure - File Sync! I focus on writing scalable 
+    features to reduce time to resolve incidents. I integrated Machine Learning algorithms to modernize the way we think
+    about monitoring dependencies! :)
+
+
+- layout: left
+  company: Microsoft Teams
+  link: Microsoft.com
+  job_title: Software Engineer Intern
+  dates: June 2018 - September 2018
+  quote: >
+    Features, features, features! 
+  description: | # this will include new lines to allow paragraphs
+    I wrote two large features for Microsoft Teams iOS. This included the Voice Messaging feature which sees <mark>~1 million</mark> messages per month!
+    I also wrote location sharing messages so that you can drop a pin to meet up for coffee!
+
+- layout: left
+  company: Oracle Inc.
+  link: Oracle.com
+  job_title: Software Engineer Intern
+  dates: September 2017 - November 2017
+  quote: >
+    iOS, Android, and More! 
+  description: | # this will include new lines to allow paragraphs
+    I wrote and created an app from scratch for iOS and Android for Sales Engineers! 

@@ -1,0 +1,10 @@
+- layout: top-middle
+  name: Super awesome project
+  link: https://github.com/WeHacks/GlobalAI
+  github: sproogen/resume-theme
+  quote: >
+    We won FIRST PLACE! 
+  description: | # this will include new lines to allow paragraphs
+    I started this project in conjunction with Clover to develop a customer tender option to <mark>face</mark> fraud. (haha get it?) 
+
+    I integrated facial recognition APIs and extrapolated hashes of credit card data to customer accounts.
